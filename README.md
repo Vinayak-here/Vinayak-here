@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayak-here
+- 👋 Hi, I’m Vinayak
 
 <!---
 Vinayak-here/Vinayak-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
