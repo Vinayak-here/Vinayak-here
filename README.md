@@ -7,7 +7,7 @@
 <h5>I am a Master of Computer Applications graduate with experience in full-stack development, including C#, React, Mysql , Postgres and web technologies. My skills also extend to database management (MSSQL, PostgreSQL), and UI/UX design with Figma. I am passionate about leveraging technology to create innovative solutions and continuously improve as a developer.</h5>
 - 🔭 I’m currently working on Truens project as Front end dev
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently exploring Frontend technologies
 
 
 
