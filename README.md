@@ -1,129 +1,173 @@
 <div align="center">
-  
-# 👋 Hey, I'm Vinayak Patil
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+.NET+%7C+Database+Expert;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Vinayak+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ## 🚀 About Me
 
-🎓 **Master of Computer Applications** Graduate  
-💼 Full-Stack Developer specializing in **React**, **C#/.NET**, and **Database Management**  
-🎯 Passionate about creating innovative, scalable solutions  
-🌱 Currently exploring advanced **React patterns** and **cloud technologies**  
+Frontend-focused Full Stack Developer with a passion for building **scalable, high-performance web applications**. I specialize in React, TypeScript, and Next.js, with strong expertise in API integration, state management, and performance optimization.
 
----
+📍 Based in **Bengaluru, Karnataka, India**
 
-## 💼 Featured Projects
+## 💼 What I Do
 
-### 🛒 E-Commerce Web API
-Built robust REST APIs for an e-commerce platform with comprehensive CRUD operations, authentication, and payment gateway integration.
-
-**Tech Stack:** C#, .NET Core, SQL Server, JWT Authentication
-
----
-
-### 📅 Event Planner Portal
-Developed a full-featured event management system with real-time updates, user authentication, and booking management.
-
-**Tech Stack:** React, Node.js, PostgreSQL, Tailwind CSS
-
----
-
-### 🏢 Enterprise Front-End Development
-Contributed to large-scale enterprise applications with focus on responsive design, performance optimization, and user experience.
-
-**Tech Stack:** React, TypeScript, Redux, Material-UI
-
----
+```typescript
+const vinayak = {
+    code: ["JavaScript", "TypeScript", "C#"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "ASP.NET"],
+        databases: ["PostgreSQL", "MongoDB", "MSSQL"],
+        stateManagement: ["Redux Toolkit", "Zustand", "TanStack Query"],
+        uiLibraries: ["ShadCN", "Aceternity UI", "Framer Motion"]
+    },
+    currentlyExploring: ["Docker", "AWS", "Linux", "DevOps"],
+    architecture: ["REST APIs", "Microservices", "Responsive Design"]
+};
+```
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-</p>
-
 ### Frontend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Backend & Database
+### Backend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### Tools & Others
+### Databases
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 </div>
 
+## 🌟 Featured Projects
+
+### 🧠 [Second Brain](https://github.com/Vinayak-here)
+> Personal knowledge management system for curating and organizing content
+
+**Tech Stack:** Next.js, TypeScript, Node.js, MongoDB, Prisma ORM
+
+- 🔐 Secure authentication and user management
+- 📚 Centralized storage for links (Twitter, YouTube) and notes
+- 🏗️ Scalable data models with Prisma ORM
+- 🚀 Currently in active development
+
 ---
+
+### ⏰ [Time Wise](https://github.com/Vinayak-here)
+> Full-stack timesheet management for tracking daily tasks
+
+**Tech Stack:** Next.js, Node.js, TypeORM, PostgreSQL
+
+- 👥 Multi-role support (employees & team leads)
+- 📊 Comprehensive task tracking and reporting
+- 💾 Robust database design with TypeORM
+- 📈 Real-time data visualization
+
+---
+
+### 🎓 Mind Mentor
+> Interactive learning and assessment platform dashboard
+
+**Tech Stack:** TypeScript, React, Zustand, TanStack Query
+
+- ⚡ Optimized data fetching with TanStack Query
+- 🎨 Responsive and interactive UI components
+- 🔄 Efficient server-state management
+- 📉 50% reduction in redundant API calls
+
+---
+
+### 🖼️ Truens
+> AI-powered detection system for fake images and videos
+
+**Tech Stack:** JavaScript, React
+
+- 🤖 REST API integration for AI detection
+- 👨‍💻 Cross-functional collaboration with UI/UX and backend teams
+- 🎯 Seamless feature integration
+
+---
+
+### 💼 [Portfolio Website](https://github.com/Vinayak-here)
+> Modern, responsive personal portfolio
+
+**Tech Stack:** React, JavaScript, Tailwind CSS
+
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI
+- ♻️ Reusable component architecture
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=vinayakpatil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakpatil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakpatil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A277FF&icon_color=61DAFB&text_color=FFFFFF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-here&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A277FF&text_color=FFFFFF" alt="Top Languages" height="165" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-here&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
 
-## 🎯 What I'm Working On
-
-🔨 Building scalable web applications with modern tech stacks  
-📚 Deepening expertise in React ecosystem and state management  
-🎨 Crafting intuitive UI/UX with Figma and modern CSS frameworks  
-☁️ Exploring cloud deployment and DevOps practices  
-
----
-
-## 📫 Let's Connect!
+## 🤝 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-patil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+  <a href="https://linkedin.com/in/vinayak-patil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vinayakvinni16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vinayak-here">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-
+  <img src="https://komarev.com/ghpvc/?username=Vinayak-here&label=Profile%20Views&color=A277FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-### ⚡ Fun Fact
-I believe in writing code that's not just functional, but elegant and maintainable!
-
-<img src="https://komarev.com/ghpvc/?username=vinayakpatil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
+  ### ✨ Always learning, always building ✨
+  
+  <sub>💡 Open to collaboration and interesting projects!</sub>
 </div>
