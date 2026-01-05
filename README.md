@@ -133,17 +133,6 @@ const vinayak = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A277FF&icon_color=61DAFB&text_color=FFFFFF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-here&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A277FF&text_color=FFFFFF" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-here&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A277FF&ring=61DAFB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
